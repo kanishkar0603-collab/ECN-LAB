@@ -24,13 +24,18 @@
 
 **CIRCUIT DIAGRAM:**
 
+![1](https://github.com/user-attachments/assets/09160660-38b9-4888-b371-e41023dddc23)
+![2](https://github.com/user-attachments/assets/0f384ece-79cb-4831-9c81-4ba3b938abd6)
 
+**THEORITICALCALCULATION**
 
+![3](https://github.com/user-attachments/assets/0b4b17ea-ab49-4bce-a08a-e2500ec50b37)
+![4](https://github.com/user-attachments/assets/8f5c8f8e-8492-4d43-b86c-0a90c71b3f47)
+![5](https://github.com/user-attachments/assets/d8546b2c-9e66-440f-a1e0-240ebfa04a00)
 
+**OBSERVATION TABLE**
 
-
-
-
+![6](https://github.com/user-attachments/assets/ecbd893c-6c1f-46df-90b7-253c9f99e9b8)
 
 
 
@@ -52,4 +57,8 @@
 **RESULT:**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
+
+**MARKS SPLIT UP**
+![1](https://github.com/user-attachments/assets/e46e6fee-0cff-4eb2-bb0d-0c0f303b5338)
+
 
